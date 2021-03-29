@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá 👋, Meu nome é Laura Melo
+
+![](https://komarev.com/ghpvc/?username=Hanawa02)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hanawa02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanawa02&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanawa02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hanawa02/Hanawa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
