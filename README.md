@@ -1,4 +1,4 @@
-### Olá 👋, Meu nome é Laura Melo
+### Olá 👋, Meu nome é Laura Caroline Ribeiro de Melo
 
 ![](https://komarev.com/ghpvc/?username=Hanawa02)
 
