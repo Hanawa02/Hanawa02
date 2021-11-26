@@ -1,7 +1,7 @@
 ### Hi 👋, my name is Laura Caroline Ribeiro de Melo, I'm a front-end developer currently located in Germany.
 
-- 🔭 I’m currently working on too many projects, mostly private ones, but also trying to contribute to [Astro](https://github.com/snowpackjs/astro)
-- 🌱 I’m currently learning [React](https://www.udemy.com/share/101WayAkUdc11WQnQ=/)
+- 🔭 I’m currently working on too many projects, mostly private ones
+- 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org/)
 - 💬 Ask me about HTML and CSS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laura-melo/)
 
