@@ -1,8 +1,11 @@
 ### Hi 👋, my name is Laura Caroline Ribeiro de Melo, I'm a front-end developer currently located in Germany.
 
-- 🔭 I’m currently working on a project related to board games.
-- 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org/), Vue 3's composition API and [Astro](https://astro.build)
-- 💬 Ask me about HTML and CSS
+- 🔭 I’m currently working on:
+  - a project related to ♟️board games♟️.
+  - a project to keep track of 💸money💸 lent/borrowed with friends and family.
+  - a [Unity](https://unity.com/) game related to 🐝bees🐝.
+- 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org/), [Astro](https://astro.build), how to create 3D models with [Blender](https://www.blender.org/) and how to create games with [Unity](https://unity.com/)
+- 💬 Ask me about Vue, HTML and CSS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laura-melo/)
 
 ![](https://komarev.com/ghpvc/?username=Hanawa02)
