@@ -1,7 +1,7 @@
 ### Hi 👋, my name is Laura Caroline Ribeiro de Melo, I'm a front-end developer currently located in Germany.
 
 - 🔭 I’m currently working on:
-  - a project related to ♟️board games♟️.
+  - a project related to ♟️board games♟️ called [Score Empire](https://score-empire.com).
   - a project to keep track of 💸money💸 lent/borrowed with friends and family.
   - a [Unity](https://unity.com/) game related to 🐝bees🐝.
 - 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org/), [Astro](https://astro.build), how to create 3D models with [Blender](https://www.blender.org/) and how to create games with [Unity](https://unity.com/)
