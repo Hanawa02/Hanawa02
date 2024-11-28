@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Hanawa02)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hanawa02&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hanawa02&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats-five-wine-82.vercel.app/api?username=Hanawa02&show_icons=true&theme=dark&count_private=true)
 
