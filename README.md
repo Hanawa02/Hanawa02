@@ -12,7 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hanawa02&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanawa02&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-five-wine-82.vercel.app/api?username=Hanawa02&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats-five-wine-82.vercel.app/api/top-langs/?username=Hanawa02&layout=compact)](https://github.com/Hanawa02/github-readme-stats)
 
