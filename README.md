@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanawa02&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanawa02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-wine-82.vercel.app/api/top-langs/?username=Hanawa02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hanawa02/Hanawa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
